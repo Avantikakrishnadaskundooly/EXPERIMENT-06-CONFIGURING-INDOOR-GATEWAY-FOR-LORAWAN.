@@ -1,5 +1,9 @@
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
 
+**Name: Avantika Krishnadas Kundooly**
+**Reg no: 212224040040**
+**Date: 28/05/26**
+
 ## Aim: 
 
 To  configure  Dragino LPS8 Indoor LoRaWAN gateway for things  network .
@@ -120,6 +124,7 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 ## OUTPUT 
 
+<img width="1600" height="958" alt="IOT Exp 6" src="https://github.com/user-attachments/assets/2c9a64f3-1a11-45b7-9172-8ebe2245bf7e" />
 
 
 
