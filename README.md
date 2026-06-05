@@ -126,6 +126,7 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 <img width="1600" height="958" alt="IOT Exp 6" src="https://github.com/user-attachments/assets/2c9a64f3-1a11-45b7-9172-8ebe2245bf7e" />
 
+<img width="753" height="464" alt="image" src="https://github.com/user-attachments/assets/c91ed22e-0452-47fd-a0a2-05e693239fbb" />
 
 
 ## Result: 
